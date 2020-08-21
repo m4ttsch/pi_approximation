@@ -1,4 +1,4 @@
-# monte_carlo
+# Approximating Pi
 
 ## Project setup
 ```
