@@ -1,5 +1,5 @@
 <template>
-  <div id="app" class="bg-blue-100 h-full text-gray-800">
+  <div id="app" class="text-gray-800">
     <div
       class="font-body bg-gray-100 max-w-sm md:max-w-xl m-auto pt-4 md:pt-8 px-4 md:px-8"
     >
